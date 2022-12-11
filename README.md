@@ -1,2 +1,2 @@
-# CV
-Мое первое CV
+# Homework 1
+Мой homework
